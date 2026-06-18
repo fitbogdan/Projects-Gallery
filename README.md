@@ -18,7 +18,13 @@
 <img width="754" height="398" alt="Screenshot 2026-06-18 at 16 28 27" src="https://github.com/user-attachments/assets/0f5d57c3-3871-4a06-b12d-a9add5cb6a82" />
 
 
-## Letting go - Cross Platform app with multiple custom UI elements.
+## Letting go - Cross Platform app with multiple custom UI elements, based on SVG paths.
 
 https://github.com/user-attachments/assets/c97c4137-6255-44ab-b5b4-d663e5c6e542
+
+## Energy tracker app - Custom rendered UI components
+
+<img width="645" height="1398" alt="IMG_8226" src="https://github.com/user-attachments/assets/43b7b4e6-e685-4a4b-a2b4-bfd277758737" />
+
+
 

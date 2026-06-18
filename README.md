@@ -16,3 +16,9 @@
 <img width="754" height="395" alt="Screenshot 2026-06-18 at 16 27 58" src="https://github.com/user-attachments/assets/24bd67f3-9628-4096-8ae1-8ba847b7acb6" />
 <img width="754" height="395" alt="Screenshot 2026-06-18 at 16 27 43" src="https://github.com/user-attachments/assets/cedaeeeb-2ad1-4521-bb0c-09d2f422cd7f" />
 <img width="754" height="398" alt="Screenshot 2026-06-18 at 16 28 27" src="https://github.com/user-attachments/assets/0f5d57c3-3871-4a06-b12d-a9add5cb6a82" />
+
+
+## Letting go - Cross Platform app with multiple custom UI elements.
+
+https://github.com/user-attachments/assets/c97c4137-6255-44ab-b5b4-d663e5c6e542
+

@@ -1,1 +1,1 @@
-# Screenshots of all of my apps
+# Screenshots of some of my apps which cannot be open sourced
